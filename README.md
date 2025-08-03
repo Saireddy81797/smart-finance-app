@@ -1,8 +1,24 @@
-# 💰 Smart Personal Finance & Fraud Alert
-[Live demo](https://saireddy81797-smart-finance-app-app-raiwis.streamlit.app/)
+#  Smart Personal Finance & Fraud Alert
 
-- Upload bank statement
-- Auto categorizes spend (Food, Transport, etc)
-- Flags big spends as anomalies
-- Shows dashboard & pie chart
-- Built with Python, Pandas, Streamlit
+Easily upload your bank statement, see where your money goes, and spot suspicious transactions.
+
+[ Live demo](https://saireddy81797-smart-finance-app-app-raiwis.streamlit.app/)
+
+---
+
+##  Features
+- Upload CSV bank statement
+- Auto-categorizes expenses (e.g., Food, Transport)
+- Detects anomalies (e.g., big spend > ₹1000)
+- Dashboard with total spend & pie chart
+- Built & deployed using Python & Streamlit
+
+---
+
+##  Tech Stack
+- Python
+- Streamlit
+- Pandas
+- matplotlib
+---
+
